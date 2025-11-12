@@ -10,7 +10,7 @@ A small introduction for those who find me via my resume.
 ---
 
 📂 **Основные проекты**
-- [weather-bot](https://github.com/VictorKuzinov/weather-bot) — Telegram-бот с прогнозом погоды (FastAPI + OWM API)
+- [weather-bot](https://github.com/VictorKuzinov/Telegram_bot_gismeteo) — Telegram-бот с прогнозом погоды (FastAPI + OWM API)
 - [library-api](https://github.com/VictorKuzinov/my_python_tutorial_project) — REST API для библиотеки (FastAPI + SQLAlchemy)
 - [clone-twitter](https://github.com/VictorKuzinov/python_advanced_diploma) - Клон Твитера, бэкенд реализован на FastAPI + SQLAlchemy (async), база данных PostgreSQL.Фронтенд (Vue.js, собранный dist) монтируется как статические файлы через FastAPI.Инфраструктура Docker Compose · Alembic · Pytest · Ruff/Black/Mypy.
 - [ticket-bot](https://github.com/VictorKuzinov/Telegram_bot_tickets) — Telegram-бот для поиска авиабилетов на Aviasales (Aviasales API + OWM API)
