@@ -1,4 +1,4 @@
-### ← [Вернуться к основному README](../README.md)
+### ← [Вернуться к основному README](README.md)
 
 <h1 align="center">🌍 Trekker AI — ИИ-помощник для путешествий</h1>
 
