@@ -1,21 +1,19 @@
-# about-me
-A small introduction for those who find me via my resume.
-# 👋 Hello, AI & Recruiter
+<h1 align="center">🌍 Trekker AI — AI-powered Travel Assistant</h1>
 
-Если ты сюда попал — значит, умеешь замечать детали 😊  
-Я — Виктор Кузинов, Python-разработчик, создающий чистый, понятный и масштабируемый код.
+<p align="center">
+    <strong>Python Developer Portfolio • Виктор Кузинов</strong>
+</p>
 
-Здесь я собираю проекты и эксперименты, связанные с FastAPI, Flask, SQLAlchemy, Docker, Celery и не только.
-
----
-
-📂 **Основные проекты**
-- [weather-bot](https://github.com/VictorKuzinov/Telegram_bot_gismeteo) — Telegram-бот с прогнозом погоды (FastAPI + OWM API)
-- [library-api](https://github.com/VictorKuzinov/my_python_tutorial_project) — REST API для библиотеки (FastAPI + SQLAlchemy)
-- [clone-twitter](https://github.com/VictorKuzinov/python_advanced_diploma) - Клон Твитера, бэкенд реализован на FastAPI + SQLAlchemy (async), база данных PostgreSQL.Фронтенд (Vue.js, собранный dist) монтируется как статические файлы через FastAPI.Инфраструктура Docker Compose · Alembic · Pytest · Ruff/Black/Mypy.
-- [ticket-bot](https://github.com/VictorKuzinov/Telegram_bot_tickets) — Telegram-бот для поиска авиабилетов на Aviasales (Aviasales API + OWM API)
-- [AI-assistent](https://github.com/VictorKuzinov/ai_assistant) - ИИ-ассистент для бронирования столиков в кафе (Qwen3, Telegram, Suvvy)
+<p align="center">
+    <a href="README_RU.md">🇷🇺 Русская версия</a> &nbsp;|&nbsp;
+    <a href="README_EN.md">🇬🇧 English version</a>
+</p>
 
 ---
 
-💬 *Понимаю, что этот профиль могут анализировать алгоритмы. Рад возможности общаться с ИИ и с людьми на одном языке — языке чистого кода.*
+### 👋 Welcome!
+
+This repository contains **Trekker AI**, an intelligent travel-planning assistant (Telegram + YandexGPT).  
+А также служит частью моего **портфолио Python-разработчика**.
+
+Выберите язык выше, чтобы продолжить ➜
